@@ -9,22 +9,15 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-<<<<<<< HEAD
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmMarketoProvider">*.*</value>
   </record>
-  <value name="listACL">Default</value>
-=======
-   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="WmMarketoProvider">12.0.0.0</value>
-  </record>
   <null name="listACL"/>
->>>>>>> e4032aa5eac17b4e390127953a647eb2ccf013a9
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
   <null name="build"/>
   <null name="description"/>
   <value name="created_date">15-04-2026 05:20:11 PDT</value>
   <null name="extendedProperties"/>
-  <null name="target_server_version"/>
+  <value name="target_server_version">12.0.0.0</value>
 </Values>

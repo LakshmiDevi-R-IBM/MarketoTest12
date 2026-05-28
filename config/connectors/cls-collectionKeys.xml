@@ -3,6 +3,7 @@
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
         <servicesKeys>
             <keyDetails collectionKey="ccs:getFolders_120_ccs" connectorServiceName="ccs:getFolders_120_ccs"/>
+            <keyDetails collectionKey="ccs:marketo_ccs_GV" connectorServiceName="ccs:marketo_ccs_GV"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
 </services>

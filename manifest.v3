@@ -19,5 +19,5 @@
   <null name="description"/>
   <value name="created_date">15-04-2026 05:20:11 PDT</value>
   <null name="extendedProperties"/>
-  <value name="target_server_version">12.0.0.0</value>
+  <null name="target_server_version"/>
 </Values>
